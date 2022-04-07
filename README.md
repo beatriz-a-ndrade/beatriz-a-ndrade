@@ -1,4 +1,7 @@
-### Hi there 👋
+### Beatriz Ribeiro de Andrade 👋
+* 💻 Em transição de carreira para a área de tecnologia desde 2021
+* 📝 Estudante do curso #TodasEmTech - Backend na {Reprograma} 
+* ✉️ beatrizrandrade@gmail.com
 
 <!--
 **beatriz-a-ndrade/beatriz-a-ndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
