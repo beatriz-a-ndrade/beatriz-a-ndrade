@@ -1,6 +1,6 @@
 ### Beatriz Ribeiro de Andrade 👋
 * 💻 Em transição de carreira para a área de tecnologia desde 2021
-* 📝 Estudante do curso #TodasEmTech - Backend na {Reprograma} 
+* 📝 Estudante de Análise e Desenvolvimento de Sistemas 
 * ✉️ beatrizrandrade@gmail.com
 
 <div align="center">
